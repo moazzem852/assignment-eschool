@@ -1,0 +1,97 @@
+.overlay{
+    background-color: #F0FFF0;
+    margin-bottom: 100px;
+}
+.logo-img{
+    width:200px;
+}
+.nav-btn{
+    border: none;
+    background-color:#21B573;;
+    border-radius: 33px;
+    padding:12px 28px;
+}
+#baaner-p{
+    color: red;
+}
+h1{
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+.banner-hone{
+    color: seagreen;
+}
+.banner-btn{
+    border: none;
+    background-color:#21B573;
+    padding: 12px 36px;
+    border-radius: 33px;
+}
+.card-deck{
+    padding: 0px 300px;
+}
+.icon:hover{
+    box-sizing: border-box ;
+    background-color:lightgoldenrodyellow;
+    box-shadow: 10px 20px 30px lightgray;
+}
+.icon{
+    width: 270px;
+    height: 270px;
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+    padding-top: 54px;
+}
+.icon-img{
+    width: 66px;
+    height: 86px;
+    margin-bottom: 22px;   
+}
+.container-info{
+    margin-bottom: 100px;
+}
+.course{
+    border-radius: 18px;
+    padding: 24px 20px 19px 19px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.course-btn{
+    border: none;
+    padding: 8px 28px;
+    background: #21B573;
+    border-radius: 33px;
+    margin-bottom: 40px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.text{
+    color:#585859 ;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+.container-modern{
+    margin-bottom: 100px;
+}
+.container-owmer-info{
+    height: 200px;
+    margin-bottom: 120px;
+}
+.container-owmer-info img{
+    width: 100%;
+}
+footer{
+    color: white;
+    background-color:#282531;
+}
+footer .container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.copyright-text{
+    padding-top: 80px;
+}
